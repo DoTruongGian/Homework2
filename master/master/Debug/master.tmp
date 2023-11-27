@@ -1,0 +1,43 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\Debug\master.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>master.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>master.map</FILE>
+  <FILE>master.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <POWER_RESET_LCD8><FILE>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\main.asm</FILE><LINE>125</LINE></POWER_RESET_LCD8>
+  <INIT_LCD8><FILE>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\main.asm</FILE><LINE>105</LINE></INIT_LCD8>
+  <spi_init><FILE>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\main.asm</FILE><LINE>67</LINE></spi_init>
+  <USART_Init><FILE>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\main.asm</FILE><LINE>75</LINE></USART_Init>
+  <loop><FILE>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\main.asm</FILE><LINE>34</LINE></loop>
+  <spi_transmit><FILE>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\main.asm</FILE><LINE>37</LINE></spi_transmit>
+  <check><FILE>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\main.asm</FILE><LINE>38</LINE></check>
+  <wait_transmit><FILE>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\main.asm</FILE><LINE>43</LINE></wait_transmit>
+  <USART_SendChar><FILE>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\main.asm</FILE><LINE>86</LINE></USART_SendChar>
+  <OUT_LCD><FILE>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\main.asm</FILE><LINE>168</LINE></OUT_LCD>
+  <DELAY_US><FILE>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\main.asm</FILE><LINE>188</LINE></DELAY_US>
+  <XUAT><FILE>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\main.asm</FILE><LINE>148</LINE></XUAT>
+  <USART_SendChar_Wait><FILE>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\main.asm</FILE><LINE>88</LINE></USART_SendChar_Wait>
+  <USART_ReceiveChar><FILE>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\main.asm</FILE><LINE>96</LINE></USART_ReceiveChar>
+  <USART_ReceiveChar_Wait><FILE>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\main.asm</FILE><LINE>98</LINE></USART_ReceiveChar_Wait>
+  <L1><FILE>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\main.asm</FILE><LINE>190</LINE></L1>
+  <L2><FILE>C:\Users\truon\OneDrive\Desktop\HW2_Microprocessor\master\master\main.asm</FILE><LINE>191</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>
